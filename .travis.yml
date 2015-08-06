@@ -3,7 +3,7 @@ language: ruby
 bundler_args: --without tool
 rvm:
   - 2.2.0
-  - jruby
+  - jruby-9
   - rbx
 matrix:
   allow_failures:
